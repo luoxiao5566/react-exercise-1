@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-top: -75px;
+    margin-bottom: $base-margin;
+}
