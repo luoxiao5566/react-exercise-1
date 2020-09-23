@@ -1,0 +1,28 @@
+#resume {
+  background-color: #ededed;
+  margin-right: 20px;
+  margin-left: 115px;
+  margin-top: 20px;
+}
+
+#years {
+  float: left;
+  font-size: 14px;
+  margin-left: 20px;
+  font-weight: 700;
+}
+
+.p3 {
+  font-size: 17px;
+  font-weight: 700;
+  margin-left: 10px;
+  text-align: left;
+  line-height: 35px;
+}
+
+.p4 {
+  font-size: 12px;
+  margin-left: 10px;
+  text-align: left;
+  line-height: 30px;
+}
